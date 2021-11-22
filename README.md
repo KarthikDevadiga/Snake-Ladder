@@ -1,4 +1,4 @@
-# Snake-Ladder
+# Snake-and-Ladder
 Snake and ladder is desktop gamming application developed using Java
 
 # Tecnologies used are 
